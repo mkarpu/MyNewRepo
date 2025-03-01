@@ -5,5 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Main m = new Main();
         m.Add(5,5);
+        m.Add(5,10);
+        //New Commit
     }
 }
